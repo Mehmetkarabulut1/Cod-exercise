@@ -1,2 +1,2 @@
 # Cod-exercise
-python cods
+this file contains some of my practice code
