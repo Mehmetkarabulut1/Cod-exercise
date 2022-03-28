@@ -36,5 +36,5 @@ while True:
         print("programdan çıkılıyor yine bekleriz")
         break
 
-    if islem > 4:
+    else islem > 4:
         print("geçersiz işlem seçtiniz")
